@@ -9,6 +9,8 @@ At the moment I am currently teaching myself.
 * Javascript
 * React 
 * SQL 
+* Machine Learning
+* AI
 
 ## Connect with me. 
 
