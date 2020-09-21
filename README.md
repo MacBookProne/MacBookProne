@@ -17,4 +17,6 @@ At the moment I am currently teaching myself.
 * <a href="https://www.linkedin.com/in/justin-odea/">LinkedIn</a>
 * <a href="https://twitter.com/ODeaJustin">Twitter</a>
 
+<img src="./Octojustin/octocat.png" alt="OctoJustin" style="width:200px;height:200px;">
+
 
