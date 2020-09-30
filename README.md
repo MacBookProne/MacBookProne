@@ -12,11 +12,11 @@ At the moment I am currently teaching myself.
 * Machine Learning
 * AI
 
-## Connect with me. 
+ ## Find me around the web 🌎: 
 
 * <a href="https://www.linkedin.com/in/justin-odea/">LinkedIn</a>
 * <a href="https://twitter.com/ODeaJustin">Twitter</a>
 
-<img src="./Octojustin/justinoctocat.gif" alt="OctoJustin" style="width:200px;height:200px;">
- 
+ <a href="https://github.com/MacBookProne"><img align="left" width="150" height="150" 
+ src="https://github.com/MacBookProne/MacBookProne/blob/master/Octojustin/Justinoctocat.gif?raw=true" style="width:200px;height:200px;"> </a>
 
