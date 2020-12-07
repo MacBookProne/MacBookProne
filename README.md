@@ -11,6 +11,7 @@ At the moment I am currently teaching myself.
 * SQL 
 * Machine Learning
 * AI
+* Raspberry Pi and Code Integration 
 
  ## Find me around the web 🌎: 
 
