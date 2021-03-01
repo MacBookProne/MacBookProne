@@ -12,6 +12,7 @@ At the moment I am currently teaching myself.
 * Machine Learning
 * AI
 * Raspberry Pi and Code Integration 
+* WordPress Dev
 
  ## Find me around the web 🌎: 
 
